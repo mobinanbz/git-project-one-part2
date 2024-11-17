@@ -5,3 +5,7 @@ body {
 header {
   font-size: 25px;
 }
+
+.slider {
+  background: green;
+}
